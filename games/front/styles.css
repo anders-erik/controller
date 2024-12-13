@@ -1,0 +1,16 @@
+
+.stop-div {
+    background-color: rgba(73, 145, 207, 0.66);
+    position: absolute;
+    /* display: none; */
+    left: 200px;
+    top: 120px;
+
+    /* display: flex; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    height: 60%;
+    width: 60%;
+}
